@@ -1,5 +1,3 @@
-<img src="https://github.com/gordon-matt/elFinder.NetCore/blob/master/_Misc/Logo.png" alt="Logo" width="350" />
-
 ## Instructions
 
 1. Install the NuGet package: https://www.nuget.org/packages/elFinder.NetCore/
